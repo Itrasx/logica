@@ -1,0 +1,12 @@
+2. João tem três barris. No barril A, que está vazio, cabem 8 litros. No barril B, 5. No barril C, 3 litros.
+Que deve ele fazer para deixar os barris A e B com 4 litros cada e o C vazio?
+
+como o unico meio de medir o tanto de agua que vai para cada barril é enchendo o barril completamente de agua:
+barril B para A = A 5l/ B 0l/ C 3l
+barril C para B = A 5l/ B 3l/ C 0l
+barril A para C = A 2l/ B 3l/ C 3l 
+barril C para B = A 2l/ B 5l/ C 1l 
+barril B para A = A 7l/ B 0l/ C 1l
+barril C para B = A 7l/ B 1l/ C 0l
+barril A para C = A 4l/ B 1l/ C 3l
+barril C para B = A 4l/ B 4l/ C 0l
