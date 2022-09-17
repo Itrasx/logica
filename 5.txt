@@ -1,0 +1,9 @@
+5. Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se
+que este sofreu um aumento de 25%.
+
+Inicio
+    Real: salario, novoSalario;
+    LEIA salario;
+    novoSalario <- salario * 1,25;
+    ESCREVER novoSalario;
+Fim

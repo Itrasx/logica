@@ -1,0 +1,10 @@
+Inicio
+       inteiro: n1, n2, n3, n4, soma;
+       LEIA n1, n2, n3, n4;
+       soma <- n1 + n2 + n3 + n4;
+       ESCREVA ("soma=", soma)
+Fim         
+
+      
+
+

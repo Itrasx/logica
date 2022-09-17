@@ -1,0 +1,10 @@
+8. Faça um programa que calcule e mostre a área de um círculo.
+Sabe-se que: Área = π ∗ R2
+
+Inicio
+    Real: area, pi, R;
+    LEIA R
+    pi <- 3,14;
+    area <- pi * pot(R,2);
+    ESCREVER ("Área do círculo=", area)
+Fim

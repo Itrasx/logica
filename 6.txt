@@ -1,0 +1,13 @@
+6. Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre
+o valor do aumento e o novo salário.
+
+Inicio
+    Real: salario, novoSalario, aumento, percentual;
+    LEIA salario, percentual;
+    aumento <- salario * (percentual /  100);
+    novoSalario <- salario + aumento;
+    ESCREVER ("O valor do aumento é=",aumento)
+    ESCREVER ("O valor do novoSalario é=",novoSalario)
+Fim
+
+

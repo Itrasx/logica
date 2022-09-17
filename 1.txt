@@ -1,0 +1,30 @@
+barnabe não pode estar em primeiro
+
+salto
+G 1 OU 2 
+b 2 OU 3
+T 1 ou 2 ou 3
+G1 T2 B3
+Arremesso
+T 2 ou 3
+B 1 ou 3
+G 1 ou 2
+B1 G2 T3
+Metros
+B 2 ou 3
+T 1 ou 2
+G 1 ou 2
+T1 B2 G3
+
+se b 2 ou 3 em metros rasos, T 2 ou 3 em arremesso e G 1 ou 2 em salto: 
+    G está 1 em salto
+se b 2 ou 3 em metros rasos, T 2 ou 3 em arremesso, G 1 em salto e T chegou atras de G em arremesso:
+    G não está em 1 em arremesso, T está em 3 em arremesso e B está em 1 em arremesso.
+se b 2 ou 3 em metros rasos, b está em primeiro em arremesso, T está em 3 em arremesso:
+    T não está em 3 em metros rasos, T está em 1 em metros rasos.
+se G esta em 1 em salto, B em 1 em arremesso, T em 3 em arremesso e G venceu B em salto:
+    T 2 em salto, B 3 em salto.
+se T está em 1 em metros rasos, B 3 em salto e B 1 em arremesso:
+    B 2 em metros rasos e G 3 em metros rsos.
+
+

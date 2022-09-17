@@ -1,0 +1,9 @@
+7. Faça um programa que calcule e mostre a área de um trapézio. Sabe-se que A = ((base maior + base
+menor) * altura)/2
+
+Inicio
+    Real: area, baseMaior, baseMenor, altura;
+    LEIA baseMaior, baseMenor, altura;
+    area <- ((baseMaior + baseMenor) * altura) / 2;
+    ESCREVER ("A área do trapézio é=", area);
+Fim
